@@ -34,7 +34,9 @@ I am mainly engaged in research related to health care.
 * Program committee member, **EACL 2020**
 * Reviewer, **Journal of Biomedical Informatics(JBI) 2020**
 * External reviewer, **ICONLP 2020**
+
 ### Reward
 * Outstanding Master's thesis in Shandong Province (山东省优秀硕士学位论文)
+
 ### Contact
 * Email: shanshanwang5678@gmail.com
