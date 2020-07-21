@@ -6,9 +6,9 @@ I am mainly engaged in research related to health care.
 
 
 ### Publications
-## 2020
+### <font color=gray>2020</font>
 * **Shanshan Wang**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jian-Yun Nie, Jun Ma and Maarten de Rijke. **Coding Electronic Health Records with Adversarial Reinforcement Path Generation**. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A) [[pdf]]() [[code]](https://github.com/WOW5678/RPGNet)
-## 2019
+### <font color=gray>2019</font>
 * **Shanshan Wang**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jun Ma and Maarten de Rijke. **Order-free Medicine Combination Prediction With Graph Convolutional Reinforcement Learning**. The 28th ACM International Conference on Information and Knowledge Management (CIKM), 2019. (CCF B) [[pdf]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf) [[code]](https://github.com/WOW5678/CompNet)
 
 ### Academic Service
