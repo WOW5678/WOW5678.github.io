@@ -15,8 +15,8 @@ I am mainly engaged in research related to health care.
 * **Shanshan Wang**, Zhenxiang Chen, Qiben Yan, Bo Yang, Lizhi Peng and Zhongtian Jia. **A Mobile Malware Detection Method Using Behavior Features in Network Traffic**. Journal of Network and Computer Applications，Elsevier, 2019. (CCF C) [[paper]](https://www.sciencedirect.com/science/article/pii/S1084804518304028)
 
 <font color=gray size=30>2018</font>
-* **Shanshan Wang**, Qiben Yan, Zhenxiang Chen, Bo Yang, Chuan Zhao and Mauro Conti. **Detecting Android Malware Leveraging Text Semantics of Network Flows**. IEEE Transactions on Information Forensics & Security, 2018. (CCF A) [[paper]](https://ieeexplore.ieee.org/document/8101555)
-* **Shanshan Wang**, Zhenxiang Chen, Qiben Yan, Ke Ji, Lin Wang, Bo Yang and Mauro Conti. **Deep and Broad Learning based Detection of Android Malware via Network Traffic**. The 26th IEEE/ACM International Symposium on Quality of Service (IWQoS), 2018. (CCF B short)[[paper]] (https://ieeexplore.ieee.org/abstract/document/8624143/)
+* **Shanshan Wang**, Qiben Yan, Zhenxiang Chen, Bo Yang, Chuan Zhao and Mauro Conti. **Detecting Android Malware Leveraging Text Semantics of Network Flows**. IEEE Transactions on Information Forensics & Security, 2018. (CCF A) [[paper](https://ieeexplore.ieee.org/document/8101555)
+* **Shanshan Wang**, Zhenxiang Chen, Qiben Yan, Ke Ji, Lin Wang, Bo Yang and Mauro Conti. **Deep and Broad Learning based Detection of Android Malware via Network Traffic**. The 26th IEEE/ACM International Symposium on Quality of Service (IWQoS), 2018. (CCF B short)[[paper]](https://ieeexplore.ieee.org/abstract/document/8624143/)
 * **Shanshan Wang**, Qiben Yan, Zhenxiang Chen, Lin Wang, Riccardo Spolaor, Bo Yang and Mauro Conti. **Lexical Mining of Malicious URLs for Classifying Android malware**. 14th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2018. (CCF C) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01701-9_14)
 
 <font color=gray size=30>2017</font>
