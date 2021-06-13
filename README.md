@@ -6,6 +6,9 @@ I am mainly engaged in research related to health care.
 
 
 ### Publications
+#### 2021
+* **Shanshan Wang**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jian-Yun Nie, Jun Ma and Maarten de Rijke. **Few-Shot Electronic Health Record Coding through Graph Contrastive Learning**. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. (under review) 
+
 #### 2020
 * **Shanshan Wang**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jian-Yun Nie, Jun Ma and Maarten de Rijke. **Coding Electronic Health Records with Adversarial Reinforcement Path Generation**. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A) [[pdf]]() [[code]](https://github.com/WOW5678/RPGNet)
 
